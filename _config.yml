@@ -1,0 +1,41 @@
+# Setup
+title: mic 的博客
+tagline: 
+url: https://mic0x1.github.io
+baseurl: ""
+permalink: /:title/
+timezone: Asia/Shanghai
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+ga_analytics: UA-147400618-5
+
+# Specify the author for blog posts
+author:
+  name: mic
+  url: https://mic0x1.github.io/
+  email: hyx_189@gmail.com
+
+# Custom vars
+version: 3.0.0

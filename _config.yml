@@ -1,7 +1,7 @@
 # Setup
-title: mic 的博客
+title: 联合大会
 tagline: 
-url: https://mic0x1.github.io
+url: https://vunconf.github.io
 baseurl: ""
 permalink: /:title/
 timezone: Asia/Shanghai
@@ -33,9 +33,9 @@ ga_analytics: UA-147400618-5
 
 # Specify the author for blog posts
 author:
-  name: mic
-  url: https://mic0x1.github.io/
-  email: hyx_189@gmail.com
+  name: 联合大会
+  url: https://vunconf.github.io/
+  email:
 
 # Custom vars
 version: 3.0.0

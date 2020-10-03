@@ -1,10 +1,1 @@
----
-layout: default
----
-<h3 style="text-align: center">联合大会第 {{ include.resnum }} 号决议</h3>
-<h3 style="text-align: center">{{ include.title }}</h3>
-<p>大会，</p>
-<br>
-<p>{{ include.content }}</p>
-<p style="text-align: right">{{ include.date | default: 未知日期 }}，</p>
-<p style="text-align: right">{{ include.confname }}。</p>
+{% include res.html resnum="1" title="对本世界观及本大会的定义" content="根据二零二零年十月一日的集体投票（无反对票），通过议案。<br>议案内容：本世界观基本上与现实相同，时间线与现实同步，科技水平与现实同步，但没有现实中的国家。<br>，<br>本大会每年召开约4次左右的会议，分别是：春季大会、夏季大会、年度大会、冬季大会<br>（本大会可能因实际情况删减或追加临时大会）" date="二零二零年十月一日" confname="2020 年第一次年度大会" %}

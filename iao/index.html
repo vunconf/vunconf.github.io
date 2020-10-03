@@ -5,8 +5,7 @@ title: 主页
 <p style="text-align: center; color:#212529">观测天文 预测天气 科学同行</p>
 <hr>
 <h1>天气报告</h1>
-{% for weather_hash in site.data.iaoweather %}
-{% assign weather = weather_hash[1] %}
+{% for weather in site.data.iaoweather %}
 <p>预测阶段：{{ weather.period }}（年/月）</p>
   <br>
 <p>内容：{{ weather.content }}</p>

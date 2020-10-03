@@ -1,5 +1,6 @@
 ---
 title: 网站资讯
+layout: general
 ---
 Commit 版本 {{ site.github.build_revision | truncate: 7, "" }}
 

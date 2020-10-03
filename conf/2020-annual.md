@@ -22,6 +22,6 @@ permalink: /conf/2020/annual/
 
 # 决议
 <ul>
-  <li><a href="/res/2020annual_01-03.html/">2020 第一次年度大会 01~03 号决议</a></li>
-  <li><a href="/res/2020annual_04-08.html/">2020 第一次年度大会 04~08 号决议</a></li>
+  <li><a href="/res/2020annual_01-03.html">2020 第一次年度大会 01~03 号决议</a></li>
+  <li><a href="/res/2020annual_04-08.html">2020 第一次年度大会 04~08 号决议</a></li>
 </ul>

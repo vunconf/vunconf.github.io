@@ -1,5 +1,5 @@
 # Setup
-title: 联合大会
+title: {{ page.sitetitle | default: 联合大会 }}
 tagline: 
 url: https://vunconf.github.io
 baseurl: ""
@@ -29,7 +29,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-ga_analytics: UA-147400618-5
+ga_analytics: UA-147400618-6
 
 # Specify the author for blog posts
 author:

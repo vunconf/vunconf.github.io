@@ -47,3 +47,4 @@ defaults:
     values:
       headtitle: "国际天文组织"
       headertext: "国际天文组织"
+      headerlink: "/iao"

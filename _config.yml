@@ -1,5 +1,5 @@
 # Setup
-title: {{ page.sitetitle | default: 联合大会 }}
+title: 联合大会
 tagline: 
 url: https://vunconf.github.io
 baseurl: ""

@@ -39,3 +39,10 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+defaults:
+  -
+    scope:
+      path: "/iao"
+    values:
+      headtitle: "国际天文组织"

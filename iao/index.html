@@ -7,7 +7,7 @@ title: 主页
 <h1>天气报告</h1>
 {% for weather_hash in site.data.iaoweather %}
 {% assign weather = weather_hash[1] %}
-  预测阶段：{{ weather.period }}（年/月）
+<p>预测阶段：{{ weather.period }}（年/月）</p>
   <br>
-  内容：{{ weather.content }}
+<p>内容：{{ weather.content }}</p>
 {% endfor %}

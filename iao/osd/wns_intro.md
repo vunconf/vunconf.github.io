@@ -59,7 +59,7 @@ permalink: /iao/osd/wns_intro/
 <h1 id="THN">雷暴警告</h1>
 <img src="/assets/ThunderStormWarning_OSD.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>雷暴警告的目的是提醒生效的地区，未来一小时或数小时会有雷暴影响或雷雨区移入。雷暴警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
-<h1 id="THN">热带气旋警告讯号</h1>
+<h1 id="THN">热带气旋警告】号</h1>
 <p>热带气旋警告讯号的目的是提醒生效的地区，可能会收到热带气旋或其引发的恶劣天气所影响。当热带气旋可能或将会影响该地区时，奥斯德天文气象局便会对该地区发出热带气旋警告讯号。热带气旋警告讯号生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
 <h2 id="TPH1">一号戒备或风力减弱讯号</h2>
 <img src="/assets/TphNo1.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
@@ -103,7 +103,7 @@ permalink: /iao/osd/wns_intro/
     </tr>
 </tbody>
 </table>
-<h2 id="TPH9">9 号烈风或暴风风力增强讯号</h2>
+<h2 id="TPH9">9 号烈风或暴风风力增强信号</h2>
 <img src="/assets/TphNo9.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
 <p>表示该地区之烈风或暴风现正/预料显著地增强。市民应提前做好防风措施。</p>
 <h2 id="TPH10">10 号飓风信号</h2>

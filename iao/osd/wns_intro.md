@@ -8,7 +8,7 @@ permalink: /iao/osd/wns_intro/
 <p>暴雨警告讯号是奥斯德部分地区出现或预测将有暴雨时，由奥斯德天文气象局对部分地区发出的警告讯号。暴雨警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
 <h2 id="RS_W">白色暴雨警告</h2>
 <img src="/assets/WhiteRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
-<p>表示该地区已录得或预料会有 15 毫米的雨量，且雨势可能持续或表示雨势会持续并减弱。</p>
+<p>表示该地区已录得或预料会有 15 毫米的雨量，且雨势可能持续或表示雨势会减弱。</p>
 <h2 id="RS_Y">黄色暴雨警告</h2>
 <img src="/assets/YellowRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>表示该地区已录得 30 毫米的雨量，且雨势可能持续。</p>

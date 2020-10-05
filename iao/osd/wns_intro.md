@@ -56,6 +56,6 @@ permalink: /iao/osd/wns_intro/
 <img src="/assets/DangerRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>表示该地区已录得 100 毫米的雨量，且代表暴雨已经十分严峻。当此警告生效时，学生、雇员应留在原地点，如果在室外，必须寻找安全的地方避险</p>
 <hr>
-<h1>雷暴警告</h1>
+<h1 id="THN">雷暴警告</h1>
 <img src="/assets/ThunderStormWarning_OSD.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>雷暴警告的目的是提醒生效的地区，未来一小时或数小时会有雷暴影响或雷雨区移入。雷暴警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>

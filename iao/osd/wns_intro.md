@@ -3,9 +3,9 @@ layout: default
 title: 奧斯德天气警告及信号介绍
 permalink: /iao/osd/wns_intro/
 ---
-<p>为更方便地发布气象资讯，奥斯德天文气象局推出了一系列的警告讯号，以下为各警告讯号的介绍。</p>
-<h1 id="RS">暴雨警告讯号</h1>
-<p>暴雨警告讯号是奥斯德部分地区出现或预测将有暴雨时，由奥斯德天文气象局对部分地区发出的警告讯号。暴雨警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
+<p>为更方便地发布气象资讯，奥斯德天文气象局推出了一系列的警告信号，以下为各警告信号的介绍。</p>
+<h1 id="RS">暴雨警告信号</h1>
+<p>暴雨警告信号是奥斯德部分地区出现或预测将有暴雨时，由奥斯德天文气象局对部分地区发出的警告信号。暴雨警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
 <h2 id="RS_W">白色暴雨警告</h2>
 <img src="/assets/WhiteRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>表示该地区已录得或预料会有 15 毫米的雨量，且雨势可能持续或表示雨势会减弱。</p>
@@ -60,13 +60,13 @@ permalink: /iao/osd/wns_intro/
 <img src="/assets/ThunderStormWarning_OSD.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>雷暴警告的目的是提醒生效的地区，未来一小时或数小时会有雷暴影响或雷雨区移入。雷暴警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
 <h1 id="THN">热带气旋警告信号</h1>
-<p>热带气旋警告讯号的目的是提醒生效的地区，可能会收到热带气旋或其引发的恶劣天气所影响。当热带气旋可能或将会影响该地区时，奥斯德天文气象局便会对该地区发出热带气旋警告讯号。热带气旋警告讯号生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
-<h2 id="TPH1">一号戒备或风力减弱讯号</h2>
+<p>热带气旋警告信号的目的是提醒生效的地区，可能会收到热带气旋或其引发的恶劣天气所影响。当热带气旋可能或将会影响该地区时，奥斯德天文气象局便会对该地区发出热带气旋警告讯号。热带气旋警告讯号生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
+<h2 id="TPH1">一号戒备或风力减弱信号</h2>
 <img src="/assets/TphNo1.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
 <p>有一（或以上）个热带气旋集结在该地区 800 公里范围内，并可能影响/远离该地区</p>
 <h2 id="TPH3">三号强风信号</h2>
 <img src="/assets/TphNo3.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
-<p>表示近海平面现正/预料会吹强风。此讯号生效时，教育促进局可能停课措施：</p>
+<p>表示近海平面现正/预料会吹强风。此信号生效时，教育促进局可能停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>
@@ -86,7 +86,7 @@ permalink: /iao/osd/wns_intro/
 </table>
 <h2 id="TPH8">八号（西北/西南/东北/东南）烈风或暴风信号</h2>
 <img src="/assets/TphNo8.svg" width="100%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
-<p>表示近海平面现正/预料会吹烈风/暴风并从图示上标示的方向吹袭。此讯号生效时，市面公共交通停驶，教育促进局可能进一步停课措施：</p>
+<p>表示近海平面现正/预料会吹烈风/暴风并从图示上标示的方向吹袭。此信号生效时，市面公共交通停驶，教育促进局可能进一步停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>

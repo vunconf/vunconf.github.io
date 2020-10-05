@@ -85,8 +85,8 @@ permalink: /iao/osd/wns_intro/
 </tbody>
 </table>
 <h2>八号（西北/西南/东北/东南）烈风或暴风信号</h2>
-<img src="/assets/TphNo8.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
-<p>表示近海平面现正/预料会吹烈风/暴风并从图示上表示的方向吹袭。此讯号生效时，市面公共交通停驶，教育促进局可能进一步停课措施：</p>
+<img src="/assets/TphNo8.svg" width="100%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>表示近海平面现正/预料会吹烈风/暴风并从图示上标示的方向吹袭。此讯号生效时，市面公共交通停驶，教育促进局可能进一步停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>

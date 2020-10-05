@@ -34,7 +34,7 @@ permalink: /iao/osd/wns_intro/
 </tbody>
 </table>
 <h2 id="RS_R">黑色暴雨警告</h2>
-<img src="/assets/BlackRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;"style="margin: 0px auto; margin-bottom: 25px;">
+<img src="/assets/BlackRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>表示该地区已录得 75 毫米的雨量，且雨势可能持续并代表市面上已经出现严重水浸，不宜外出。当此警告生效时，因应发出时间，学校可能会采取停课措施：</p>
 <table style="text-align: center">
     <tbody>

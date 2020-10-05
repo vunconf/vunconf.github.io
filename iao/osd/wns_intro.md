@@ -66,7 +66,7 @@ permalink: /iao/osd/wns_intro/
 <p>有一（或以上）个热带气旋集结在该地区 800 公里范围内，并可能影响/远离该地区</p>
 <h2 id="TPH3">三号强风信号</h2>
 <img src="/assets/TphNo3.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;border-radius: 0px;">
-<p>表示近海平面现正/预料会吹强风。此信号生效时，教育促进局可能停课措施：</p>
+<p>表示近海平面现正/预料会吹强风。此信号生效时，教育促进局可能采取停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>

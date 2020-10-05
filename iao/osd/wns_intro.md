@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 奧斯德天气警告及信号介绍
-prmalink: /iao/osd/wns_intro/
+permalink: /iao/osd/wns_intro/
 ---
 <p>为更方便地发布气象资讯，奥斯德天文气象局退出了一系列的警告讯号，以下为各警告讯号的介绍。</p>
 <h1 id="RS">暴雨警告讯号</h1>

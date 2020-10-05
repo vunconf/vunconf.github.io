@@ -14,7 +14,7 @@ permalink: /iao/osd/wns_intro/
 <p>表示该地区已录得 30 毫米的雨量，且雨势可能持续。</p>
 <h2 id="RS_R">红色暴雨警告</h2>
 <img src="/assets/RedRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
-<p>表示该地区已录得 50 毫米的雨量，且雨势可能持续。当此警告生效时，因应发出时间，学校可能会采取停课措施：</p>
+<p>表示该地区已录得 50 毫米的雨量，且雨势可能持续。当此警告生效时，因应发出时间，教育促进局可能会采取停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>
@@ -35,7 +35,7 @@ permalink: /iao/osd/wns_intro/
 </table>
 <h2 id="RS_B">黑色暴雨警告</h2>
 <img src="/assets/BlackRainstormWarning.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
-<p>表示该地区已录得 75 毫米的雨量，且雨势可能持续并代表市面上已经出现严重水浸，不宜外出。当此警告生效时，因应发出时间，学校可能会采取停课措施：</p>
+<p>表示该地区已录得 75 毫米的雨量，且雨势可能持续并代表市面上已经出现严重水浸，不宜外出。当此警告生效时，因应发出时间，教育促进局可能会采取停课措施：</p>
 <table style="text-align: center">
     <tbody>
     <tr>
@@ -59,3 +59,53 @@ permalink: /iao/osd/wns_intro/
 <h1 id="THN">雷暴警告</h1>
 <img src="/assets/ThunderStormWarning_OSD.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
 <p>雷暴警告的目的是提醒生效的地区，未来一小时或数小时会有雷暴影响或雷雨区移入。雷暴警告生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
+<h1 id="THN">热带气旋警告讯号</h1>
+<p>热带气旋警告讯号的目的是提醒生效的地区，可能会收到热带气旋或其引发的恶劣天气所影响。当热带气旋可能或将会影响该地区时，奥斯德天文气象局便会对该地区发出热带气旋警告讯号。热带气旋警告讯号生效时，奥斯德天文气象局会透过电台、电视、社交媒体等方式向市民宣布。</p>
+<h2>一号戒备或风力减弱讯号</h2>
+<img src="/assets/ThpNo1.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>有一（或以上）个热带气旋集结在该地区 800 公里范围内，并可能影响/远离该地区</p>
+<h2>三号强风信号</h2>
+<img src="/assets/ThpNo3.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>表示近海平面现正/预料会吹强风。此讯号生效时，教育促进局可能停课措施：</p>
+<table style="text-align: center">
+    <tbody>
+    <tr>
+    <td></td>    
+    <td>中学（初中及高中）</td>
+        <td>小、幼及特殊教育</td>
+    </tr>
+    <tr>
+        <td>早上 6:00 ~ 9:00</td>
+        <td rowspan="2">照常上课</td><td>全日停课</td>
+    </tr>
+    <tr>
+        <td>早上 11:30 ~ 下午 15:00</td>
+<td>下午停课</td>
+    </tr>
+</tbody>
+</table>
+<h2>八号（西北/西南/东北/东南）烈风或暴风信号</h2>
+<img src="/assets/ThpNo8.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>表示近海平面现正/预料会吹烈风/暴风并从图示上表示的方向吹袭。此讯号生效时，市面公共交通停驶，教育促进局可能进一步停课措施：</p>
+<table style="text-align: center">
+    <tbody>
+    <tr>
+    <td></td>    
+    <td>中学（初中及高中）</td>
+        <td>小、幼及特殊教育</td>
+    </tr>
+    <tr>
+        <td>早上 6:00 ~ 9:00</td>
+        <td colspan="2" rowspan="2">全日停课</td>
+    </tr>
+    <tr>
+        <td>早上 11:30 ~ 下午 15:00</td>
+    </tr>
+</tbody>
+</table>
+<h2>9 号烈风或暴风风力增强讯号</h2>
+<img src="/assets/ThpNo9.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>表示该地区之烈风或暴风现正/预料显著地增强。市民应提前做好防风措施。</p>
+<h2>10 号飓风信号</h2>
+<img src="/assets/ThpNo10.svg" width="25%" style="margin: 0px auto; margin-bottom: 25px;">
+<p>表示该地区之风力会达到飓风程度。市民应留在家中，切勿外出。</p>
